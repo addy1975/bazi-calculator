@@ -20,7 +20,7 @@
 * `index.php`：系統主程式與 UI 介面。
 * `algorithm.php`：八宅婚配計算引擎。
 * `hehun_calculator.php`：神煞分析計算引擎。
-* `m60.php` / `w60.php`：存放 60 甲子日柱的深度解說資料（由主程式引入）。
+* `m60.php` / `w60.php`：存放 60 甲子日柱的解說資料（由主程式引入）。
 * `tyme.php`：底層曆法轉換核心庫 (來源自 [6tail](https://github.com/6tail))。
 
 ## 🚀 快速開始
